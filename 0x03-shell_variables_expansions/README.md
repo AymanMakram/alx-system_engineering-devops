@@ -24,5 +24,9 @@ The script contains exactly two lines:
 ### Usage
 Load the alias into the current shell:
 
-```bash
-source 0-alias
+
+## File: `1-hello_you`
+
+### Description
+This script prints a greeting message to the current Linux user.  
+It uses the environment variable `USER`, which stores the username of the person currently logged in.
