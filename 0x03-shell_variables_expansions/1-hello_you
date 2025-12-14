@@ -1,3 +1,2 @@
 #!/bin/bash
-export USER="$(id -un)"
 echo "hello $USER"
